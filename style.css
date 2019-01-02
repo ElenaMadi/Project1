@@ -1,0 +1,34 @@
+body {
+ background-image: url("picture1.jpg");
+
+}
+h1 {
+ font-size: 60px;
+ font-style: italic;
+ font-family: sans-serif;
+ color: LightGray;
+ background-color:hsl(0, 20%, 50%);">hsl(0, 20%, 50%);
+}
+p1 {
+  font-size: 30px;
+  font-family: sans-serif;
+  color : LightGray;
+}
+input[type=myusername] {
+ background-color:hsl(0, 20%, 50%);">hsl(0, 20%, 50%);
+ color: Violet;
+ width: 13%;
+ height: 4%;
+}
+input[type=mypassword] {
+ background-color:hsl(0, 20%, 50%);">hsl(0, 20%, 50%);
+ color: Violet;
+ width: 13%;
+ height: 4%;
+}
+input[type=submit] {
+  background-color:hsl(0, 20%, 50%);">hsl(0, 20%, 50%);
+  font-style: oblique;
+  width: 13%;
+  height: 4%;
+}

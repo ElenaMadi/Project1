@@ -1,6 +1,9 @@
 <html>
-<body><center>
-Welcome !
-</center>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1> <center>Welcome!</center> </h1>
+
 </body>
 </html>
