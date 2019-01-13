@@ -1,7 +1,16 @@
-body {
- background-image: url("picture1.jpg");
+body, html {
+  height: 100%;
+
 
 }
+.bg {
+  background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(20).jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 h1 {
  font-size: 60px;
  font-style: italic;
@@ -15,19 +24,19 @@ p1 {
   color : LightGray;
 }
 input[type=myusername] {
- background-color:hsl(0, 20%, 50%);">hsl(0, 20%, 50%);
+ background-color:LightGray;
  color: Violet;
  width: 13%;
  height: 4%;
 }
 input[type=mypassword] {
- background-color:hsl(0, 20%, 50%);">hsl(0, 20%, 50%);
+ background-color:LightGray;
  color: Violet;
  width: 13%;
  height: 4%;
 }
 input[type=submit] {
-  background-color:hsl(0, 20%, 50%);">hsl(0, 20%, 50%);
+  background-color:LightGray;
   font-style: oblique;
   width: 13%;
   height: 4%;
